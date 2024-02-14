@@ -1,0 +1,18 @@
+{
+  "spin_lists": {
+    "1": {
+      "Names": {
+        "Name1": 2,
+        "Name2": 1,
+        "Name3": 0
+      }
+    },
+    "2": {
+      "Names": {
+        "NameA": 2,
+        "NameB": 1,
+        "NameC": 0
+      }
+    }
+  }
+}
